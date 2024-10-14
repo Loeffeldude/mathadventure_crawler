@@ -6,7 +6,7 @@ So I wrote this script to do it for me.
 
 ## Usage
 
-This project uses (poetry)[https://python-poetry.org/] for dependency management.
+This project uses [poetry](https://python-poetry.org/) for dependency management.
 To install the dependencies run:
 
 ```bash
